@@ -67,6 +67,3 @@ Your final product will be assessed on the following metrics:
 * Readability
 
 * Visual Attraction
-
-
-## Hints
